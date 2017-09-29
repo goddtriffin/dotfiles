@@ -1,5 +1,5 @@
 # dotfiles
-Scripts made to make my life simpler.
+Scripts to make my life simpler.
 
 gitlive.sh : Shows live git feed (commits, branches, etc). Run it inside a directory that has a .git file.
 
