@@ -1,5 +1,5 @@
 # Path to your oh-my-zsh installation.
-export ZSH="/home/todd/.oh-my-zsh"
+export ZSH="$HOME/.oh-my-zsh"
 
 # zsh settings
 ZSH_THEME="theunraveler"
@@ -19,3 +19,5 @@ export EDITOR='vim'
 # WSL
 LS_COLORS=$LS_COLORS:'ow=1;34:' ; export LS_COLORS # disables highlighting directories green during `ls`
 
+# M3 Max Macbook pro
+eval "$(/opt/homebrew/bin/brew shellenv)"
