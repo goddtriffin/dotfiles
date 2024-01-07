@@ -1,0 +1,1 @@
+brew install deno ripgrep rust-analyzer kubectl cmake
